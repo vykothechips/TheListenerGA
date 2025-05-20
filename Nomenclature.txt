@@ -1,0 +1,18 @@
+
+Nomenclature GitHub : --------------------------------------------------
+
+
+
+<add> + quick details
+<remove>
+
+
+Nomenclature Files : ---------------------------------------------------
+
+
+SM_  "Nom de l'objet"           "Enviro/Inside/Phone/SM_Phone
+
+T_   "Nom de la texture"        "Enviro/Inside/Phone/Textures/T_Phone_BaseColor
+
+
+For the "artbook file", Put here every ressources that can be used to fill the artbook
